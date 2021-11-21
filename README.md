@@ -1,4 +1,4 @@
-# discord_automated_chat
+# AutomateDiscordChat
 *This script breaks Discord ToS, so use at your own risk.*
 
 ## Overview
